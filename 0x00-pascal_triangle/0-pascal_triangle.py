@@ -1,4 +1,12 @@
+#!/usr/bin/python3
+"""
+Creating a Pascal's triangle
+"""
+
 def pascal_triangle(n):
+    """
+    function for pascal triangle
+    """
     if n <= 0:
         return []
     triangle = [[1]]
