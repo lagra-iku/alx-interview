@@ -3,6 +3,7 @@
 Creating a Pascal's triangle
 """
 
+
 def pascal_triangle(n):
     """
     function for pascal triangle
